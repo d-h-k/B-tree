@@ -1,2 +1,2 @@
-# R-tree
-R-tree imple simple
+# B-tree
+B-tree imple simple
